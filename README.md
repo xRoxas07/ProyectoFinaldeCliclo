@@ -21,8 +21,8 @@ Requisitos para este proyecto:
 - Una configuracion del DNS para el dominio
 - Configuración adecuada de **SeekMake** para la impresora 3D digital
 - Configuracion adecuada de **SureCart** para que la tienda digital
-
-
+---
+## Prevision de la pagina
 - [Inicio](https://github.com/xRoxas07/ProyectoFinaldeCliclo/tree/main/Inicio#readme)
 - [Tienda](https://github.com/xRoxas07/ProyectoFinaldeCliclo/tree/main/Tienda#readme)
 - [Impresión](https://github.com/xRoxas07/ProyectoFinaldeCliclo/tree/main/Impresion#readme)
