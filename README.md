@@ -1,6 +1,6 @@
 # Proyecto: Better Print3D, impresión 3D personalizado online
-# Nombre: Ricardo Santos Acosta
-# Curso: 2º de Administración de Sistemas Informáticos en Red
+## Nombre: Ricardo Santos Acosta
+## Curso: 2º de Administración de Sistemas Informáticos en Red
 ---
 ## Objetivo
 ---
