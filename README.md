@@ -50,5 +50,4 @@ Requisitos para este proyecto:
 - [Tienda](https://github.com/xRoxas07/ProyectoFinaldeCliclo/tree/main/Tienda#readme)
 - [Impresión](https://github.com/xRoxas07/ProyectoFinaldeCliclo/tree/main/Impresion#readme)
 - [Panel](https://github.com/xRoxas07/ProyectoFinaldeCliclo/tree/main/Panel#readme)
-- [Pago]()
-- [Plugins]()
+- [Documentación](https://docs.google.com/document/d/1fwh0uQ4QLgCJk1E8hkhEEFJshVttIntv/edit?usp=sharing&ouid=101419043811657335556&rtpof=true&sd=true)
